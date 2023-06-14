@@ -100,6 +100,14 @@ img {
     display: block;
    
 }
+h1 {
+    font-family: "TPfont";
+    letter-spacing: 3px;
+}
+@font-face {
+  font-family: TPfont;
+  src: url(slike/TeoPopovic.ttf);
+}
 .slikebox{
       text-align: center;
     align-content: center;
