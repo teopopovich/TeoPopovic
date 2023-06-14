@@ -105,7 +105,7 @@ h1 {
     letter-spacing: 3px;
 }
 @font-face {
-  font-family: TPfont;
+  font-family: "TPfont";
   src: url(slike/TeoPopovic.ttf);
 }
 .slikebox{
